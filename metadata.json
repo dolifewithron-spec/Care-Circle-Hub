@@ -1,0 +1,6 @@
+{
+  "name": "Caregiver Portal",
+  "description": "Caregiver portal to manage medication, health records, and AI-powered drug interaction checks for loved ones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
